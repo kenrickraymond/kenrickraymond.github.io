@@ -16,4 +16,4 @@ Ultimately, I believe that quantitative finance has the potential to drive impro
 
 By relating abstract mathematical concepts into practical financial applications, I aim to contribute to a more efficient and equitable financial system.
 
-Please find my [CV](https://github.com/kenrickraymond/kenrickraymond.github.io) (Currently being revised) here.
+Please find my [CV](https://github.com/kenrickraymond/kenrickraymond.github.io) (currently being revised) here.
