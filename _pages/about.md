@@ -12,8 +12,8 @@ My interest in quantitative finance was sparked by the story of Jim Simons. Init
 
 What fascinates me about quantitative finance is the dynamic and complex structure of financial markets. This intrinsic complexity fuels my curiosity and drives me towards research to understand the intricate details behind certain phenomena. 
 
-Ultimately, I believe that quantitative finance has the potential to drive improvements in the current landscape of financial markets. For example, devising a framework for pricing standardized derivatives linked to the survival probability of a sample population to hedge the exposure pension funds face to increased life expectancy.
+Ultimately, I believe that quantitative finance has the potential to drive improvements in the current landscape of financial markets. For example, devising a framework for pricing standardized derivatives linked to the survival probability of a sample population to hedge the exposure pension funds face to increased life expectancy. By relating abstract mathematical concepts into practical financial applications, I aim to contribute to a more efficient and equitable financial system.
 
-By relating abstract mathematical concepts into practical financial applications, I aim to contribute to a more efficient and equitable financial system.
+In a past life, I also represented my country internationally in [Lion Dancing](https://github.com/kenrickraymond/kenrickraymond.github.io/images/Malaysia.png)
 
-Please find my [CV](https://github.com/kenrickraymond/kenrickraymond.github.io) (currently being revised) here.
+Please find my [CV](https://github.com/kenrickraymond/kenrickraymond.github.io/files/KENRICK_RAYMOND_SO_ACADEMIC_CV.pdf) (Version August 2024) here.
