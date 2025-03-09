@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a master's student in applied mathematics major in mathematical finance at Ateneo de Manila University. My interests are broadly in the fields of Optimal Control, Numerical Solutions to Differential Equations, Stochastic Analysis, Algorithmic Problem Solving, as well as Financial Risk Management. Specific areas of interest and expertise include longevity risk management, optimal portfolio selection, algorithmic trading, affine term structure models, and market microstructure.
+I'm currently a master's student in applied mathematics major in mathematical finance at Ateneo de Manila University. My interests are broadly in the fields of optimal control, numerical solutions to differential equations, stochastic analysis, algorithmic problem solving, as well as financial risk management. Specific areas of interest and expertise include longevity risk management, optimal portfolio selection, algorithmic trading, affine term structure models, and market microstructure.
 
 Please find my [CV](https://kenrickraymond.github.io/files/KENRICK_RAYMOND_SO_ACADEMIC_CV.pdf) (Version March 2025) here.
 
