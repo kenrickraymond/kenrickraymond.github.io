@@ -1,8 +1,7 @@
 ---
-title: "Other Projects
+title: "Other Projects"
 excerpt: "[1. Computational Finance Repository](https://github.com/kenrickraymond/Computational-Finance) - This repository contains a set of Jupyter notebooks focused on key methods in computational finance, particularly option pricing. It includes implementations of Monte Carlo simulations for pricing and updating results, Fourier-based approaches such as the COS method and FFT for density recovery and derivative valuation, and simulations of stochastic processes like Geometric Brownian Motion and correlated Brownian motions. The collection also covers the estimation of implied volatility <br/><br/> [2. Fundamental Analysis](https://github.com/kenrickraymond/kenrickraymond.github.io/files/Corporate%20Financial%20Analysis.pdf) - While most of my recent work has been on quantitative finance, I'm also familiar with traditional financial methodologies. This project is an analysis of corporate governance, historical risk and return, capital structure, company project characteristics, and dividend policy to provide a valuation and recommendations for each company."
-
-collection: portfolio \\
+collection: portfolio
 ---
 <!-- 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
