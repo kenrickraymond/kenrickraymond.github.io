@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm currently a master's student in applied mathematics major in mathematical finance at Ateneo de Manila University. My interests are broadly in the fields of optimal control, numerical solutions to differential equations, stochastic analysis, algorithmic problem solving, as well as financial risk management. Specific areas of interest and expertise include longevity risk management, optimal portfolio selection, algorithmic trading, affine term structure models, and market microstructure.
 
-Please find my [CV](https://kenrickraymond.github.io/files/KENRICK_RAYMOND_SO_ACADEMIC_CV.pdf) (Version March 2025) here.
+Please find my [CV](https://kenrickraymond.github.io/files/KENRICK_RAYMOND_SO_ACADEMIC_CV.pdf) (Version May 2025) here.
 
 One of the inspirations for my interest in quantitative finance was the story of Jim Simons. A former academic in differential geometry, Simons reshaped how financial markets are understood through mathematics and algorithmic thinking. His story stood out to me because it showed how deep mathematical ideas can have real-world impact. What draws me to quantitative finance is the complexity and structure of financial markets and the challenge of making sense of that complexity through rigorous, creative analysis.
 
