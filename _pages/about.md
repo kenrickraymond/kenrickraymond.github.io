@@ -10,10 +10,10 @@ Kenrick is an incoming **PhD researcher** at the Institute of Statistics, Biosta
 
 Kenrick holds a master's degree in applied mathematics with a major in mathematical finance from Ateneo de Manila University. His background includes quantitative risk management, stochastic modeling, and developing mathematical tools to address uncertainty in finance and insurance. He is particularly interested in advanced mortality forecasting techniques and the application of neural networks to insurance valuation and hedging strategies.
 
-Understanding and managing climate risks is becoming more important as environmental changes bring new and unpredictable challenges to financial security. Kenrick’s work aims to translate mathematical ideas into practical tools that can help insurers better prepare for these risks. By applying quantitative methods to real-world problems, he hopes to make a small contribution toward building a more resilient and fair financial system.
+Understanding and managing climate risks is becoming more important as environmental changes bring new and unpredictable challenges to financial security. Kenrick’s work aims to translate mathematical ideas into practical tools that can help insurers better prepare for these risks. By applying quantitative methods to real-world problems, he hopes to make a contribution toward building a more resilient and fair financial system.
 
 <br>
-## Recent Research Papers
+# Recent Research Paper
 
 ![Risks Figure](/images/RisksFigure.png)
 
