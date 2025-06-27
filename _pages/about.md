@@ -15,7 +15,7 @@ Understanding and managing climate risks is becoming more important as environme
 <br>
 ## Recent Research Papers
 
-![Risks Figure](/images/risksFigure.png)
+![Risks Figure](/images/RisksFigure.png)
 
 <div align="center">
   <strong>Uncertainty in Pricing and Risk Measurement of Survivor Contracts</strong><br>
